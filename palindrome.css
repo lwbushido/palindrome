@@ -1,0 +1,32 @@
+*{
+  font-family: times, serif;
+  font-size: 14pt;
+
+}
+body{
+  background-color: #e6e2d3;
+}
+header{
+  margin-bottom: 10%;
+  font-size: 18pt;
+  font-weight: bold;
+}
+textarea{
+  height: 100px;
+  width: 400px;
+  max-width: 400px;
+  max-height: 100px;
+  min-width: 400px;
+  min-height: 100px;
+  margin-left: 12%;
+}
+button{
+  margin-left: 30%;
+}
+.container{
+  padding: 15% 10% 15% 10%;
+  margin-right: 25%;
+}
+.output{
+  margin-left: 20%;
+}
